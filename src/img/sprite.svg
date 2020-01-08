@@ -1,0 +1,13 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="SVG ID" viewBox="0 0 20 20">
+<!--<title>Title of SVG</title> 
+<path d="M12,5.5H9v-2a1,1,0,0,1,1-1h1V0H9A3,3,0,0,0,6,3V5.5H4V8H6v8H9V8h2Z" fill-rule="evenodd"/> SVG PATH-->
+
+</symbol>
+</defs>
+</svg>
+
+<!-- <svg class="svg-icon">
+        <use href="img/sprite.svg#SVG ID"></use>
+    </svg>-->

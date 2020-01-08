@@ -1,0 +1,76 @@
+/*
+Media Query Manager 
+0 = 600px: Phone
+600 - 900px: Tablet Portrait
+900 - 1200px: Tablet landscape
+[1200 - 1800] is where our normal styles apply
+1800px + : Big Desktop
+*/
+
+// $ phone - tab-port - tab-land - big-desktop
+// screen() for custom queries ex: @include respond(screen(1440))
+
+@mixin respond($breakpoint) {
+    @if $breakpoint==phone {
+        @media only screen and (max-width: 37.5em) {
+            @content
+        }
+
+        ; //600px
+    }
+
+    @if $breakpoint==tab-port {
+        @media only screen and (max-width: 56.25em) {
+            @content
+        }
+
+        ; //900px
+    }
+
+    @if $breakpoint==tab-land {
+        @media only screen and (max-width: 75em) {
+            @content
+        }
+
+        ; //1200px
+    }
+
+    @if $breakpoint==big-desktop {
+        @media only screen and (min-width: 112.5em) {
+            @content
+        }
+
+        ; //1800px
+    }
+
+    @else {
+        @media only screen and (max-width: $breakpoint) {
+            @content;
+        }
+    }
+}
+
+// Function to calculate ems based on screen width
+// Pass this into the respond mixin above for custom media queries
+@function screen($breakpoint) {
+    @return ($breakpoint * 62.5em) / 1000;
+}
+
+
+// 1170 grid recreated in CSS Grid. No Bootstrap? No problem!!!
+@mixin grid {
+    width: 73%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: auto;
+    column-gap: 2.5%;
+
+    @include respond(screen(1440)) {
+        width: 95%;
+    }
+
+    @include respond(phone) {
+        width: 100%;
+    }
+}

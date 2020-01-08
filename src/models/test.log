@@ -1,0 +1,372 @@
+Exporter version: 6.2.3, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  C:\Users\letha\Desktop\babylon-practice\src\models\
+	Python World class constructor completed
+	WARNING: The following camera not visible in scene thus ignored: Camera
+	processing begun of mesh:  External Wall
+		processing begun of material:  Wall_material
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			bake time:  0 min, 0.0097 secs
+		num positions      :  283
+		num normals        :  283
+		num tangents       :  0
+		num uvs            :  566
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  372
+	processing begun of mesh:  Internal-1
+		processing begun of material:  Wall_material
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			bake time:  0 min, 0.0051 secs
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Baseboard.002
+		processing begun of material:  Baseboard_material
+		num positions      :  71
+		num normals        :  71
+		num tangents       :  0
+		num uvs            :  142
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  84
+	processing begun of mesh:  Internal-2
+		processing begun of material:  Wall_material
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			bake time:  0 min, 0 secs
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Baseboard.003
+		processing begun of material:  Baseboard_material
+		registered as also a user of material:  Baseboard_material
+		num positions      :  164
+		num normals        :  164
+		num tangents       :  0
+		num uvs            :  328
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  192
+	processing begun of mesh:  Internal-3
+		processing begun of material:  Wall_material
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			bake time:  0 min, 0.0103 secs
+		num positions      :  104
+		num normals        :  104
+		num tangents       :  0
+		num uvs            :  208
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  120
+	processing begun of mesh:  Baseboard.001
+		processing begun of material:  Baseboard_material
+		registered as also a user of material:  Baseboard_material
+		num positions      :  145
+		num normals        :  145
+		num tangents       :  0
+		num uvs            :  290
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  168
+	processing begun of mesh:  Internal-4
+		processing begun of material:  Wall_material
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			bake time:  0 min, 0 secs
+		num positions      :  38
+		num normals        :  38
+		num tangents       :  0
+		num uvs            :  76
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  48
+	processing begun of mesh:  Baseboard.004
+		processing begun of material:  Baseboard_material
+		registered as also a user of material:  Baseboard_material
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Light Switch
+		WARNING: No materials have been assigned: 
+		num positions      :  1980
+		num normals        :  1980
+		num tangents       :  0
+		num uvs            :  3960
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7200
+	processing begun of mesh:  Baseboard
+		processing begun of material:  Baseboard_material
+		registered as also a user of material:  Baseboard_material
+		num positions      :  244
+		num normals        :  244
+		num tangents       :  0
+		num uvs            :  488
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  306
+	processing begun of mesh:  Floor
+		WARNING: No materials have been assigned: 
+		num positions      :  5
+		num normals        :  5
+		num tangents       :  0
+		num uvs            :  10
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  9
+	processing begun of mesh:  Ceiling
+		processing begun of material:  Ceiling_material
+		num positions      :  5
+		num normals        :  5
+		num tangents       :  0
+		num uvs            :  10
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  9
+	processing begun of mesh:  Light Switch.001
+		WARNING: No materials have been assigned: 
+		num positions      :  1980
+		num normals        :  1980
+		num tangents       :  0
+		num uvs            :  3960
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7200
+	processing begun of mesh:  Island
+		processing begun of material:  Cabinet_material
+		num positions      :  1400
+		num normals        :  1400
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2124
+	processing begun of mesh:  Cabinet1_Door_L.002
+		processing begun of material:  Door_material
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Handle.024
+		processing begun of material:  Handle_material
+		num positions      :  143
+		num normals        :  143
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  222
+	processing begun of mesh:  Cabinet1_Door_R.002
+		processing begun of material:  Door_material
+		registered as also a user of material:  Door_material
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Handle.025
+		processing begun of material:  Handle_material
+		registered as also a user of material:  Handle_material
+		num positions      :  143
+		num normals        :  143
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  222
+	processing begun of mesh:  Countertop1.002
+		processing begun of material:  countertop_material
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Baseboard1.003
+		processing begun of material:  Baseboard_material
+		registered as also a user of material:  Baseboard_material
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  Baseboard1.004
+		mesh is an instance of :  Baseboard1.003.  Processing halted.
+	processing begun of mesh:  Baseboard1.005
+		mesh is an instance of :  Baseboard1.003.  Processing halted.
+	processing begun of mesh:  Baseboard1.006
+		mesh is an instance of :  Baseboard1.003.  Processing halted.
+	processing begun of mesh:  Plane.006
+		WARNING: No materials have been assigned: 
+		num positions      :  12178
+		num normals        :  12178
+		num tangents       :  0
+		num uvs            :  24356
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  63720
+	processing begun of node:  Table
+	processing begun of mesh:  Lamp Shade
+		WARNING: No materials have been assigned: 
+		num positions      :  3063
+		num normals        :  3063
+		num tangents       :  0
+		num uvs            :  6126
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  15042
+	processing begun of mesh:  Lamp Shade Cover
+		WARNING: No materials have been assigned: 
+		num positions      :  160
+		num normals        :  160
+		num tangents       :  0
+		num uvs            :  320
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  858
+		WARNING: # of 0 area faces found:  64
+	processing begun of node:  Lamp
+	processing begun of mesh:  Kitchen Tap Pipe.001
+		WARNING: No materials have been assigned: 
+		num positions      :  3312
+		num normals        :  3312
+		num tangents       :  0
+		num uvs            :  6624
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  14472
+	processing begun of node:  Kitchen Tap
+	processing begun of mesh:  Sink
+		WARNING: No materials have been assigned: 
+		num positions      :  530
+		num normals        :  530
+		num tangents       :  0
+		num uvs            :  1060
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2016
+	processing begun of node:  Chair
+	processing begun of mesh:  Cube
+		WARNING: No materials have been assigned: 
+		num positions      :  714
+		num normals        :  714
+		num tangents       :  0
+		num uvs            :  1428
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3072
+	processing begun of mesh:  Plane.009
+		WARNING: No materials have been assigned: 
+		num positions      :  3665
+		num normals        :  3665
+		num tangents       :  0
+		num uvs            :  7330
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  19656
+	processing begun of mesh:  Cooker Guide.001
+		WARNING: No materials have been assigned: 
+		num positions      :  2931
+		num normals        :  2931
+		num tangents       :  0
+		num uvs            :  5862
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  15996
+		WARNING: # of 0 area faces found:  8
+	processing begun of mesh:  Cooker Grills
+		WARNING: No materials have been assigned: 
+		num positions      :  14064
+		num normals        :  14064
+		num tangents       :  0
+		num uvs            :  28128
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  33120
+	processing begun of mesh:  Cooker Knobs
+		WARNING: No materials have been assigned: 
+		num positions      :  4611
+		num normals        :  4611
+		num tangents       :  0
+		num uvs            :  9222
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  17388
+	processing begun of mesh:  Cooker Feet
+		WARNING: No materials have been assigned: 
+		num positions      :  1775
+		num normals        :  1775
+		num tangents       :  0
+		num uvs            :  3550
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6096
+	processing begun of mesh:  Cooker Handle
+		WARNING: No materials have been assigned: 
+		num positions      :  996
+		num normals        :  996
+		num tangents       :  0
+		num uvs            :  1992
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4140
+	processing begun of mesh:  Cooker Handle.001
+		WARNING: No materials have been assigned: 
+		num positions      :  964
+		num normals        :  964
+		num tangents       :  0
+		num uvs            :  1928
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3948
+	processing begun of node:  Stove
+	processing begun of mesh:  Window.001
+		processing begun of material:  PVC
+		processing begun of material:  PVC
+		processing begun of material:  Glass
+			WARNING: unsupported node type(ShaderNodeLightPath) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+========= An error was encountered =========
+  File "C:\Users\letha\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\json_exporter.py", line 111, in execute
+    mesh = Mesh(object, scene, self)
+  File "C:\Users\letha\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\mesh.py", line 146, in __init__
+    recipe = BakingRecipe(bpyMesh, exporter)
+  File "C:\Users\letha\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\materials\baking_recipe.py", line 105, in __init__
+    self.bakedMaterial.bake(bpyMesh, self)
+  File "C:\Users\letha\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\materials\material.py", line 161, in bake
+    self.bakeChannel(DIFFUSE_TEX , 'DIFFUSE', usePNG, recipe.node_trees, bpyMesh)
+  File "C:\Users\letha\AppData\Roaming\Blender Foundation\Blender\2.81\scripts\addons\babylon_js\materials\material.py", line 212, in bakeChannel
+    tree.nodes.remove(tree.nodes.active)
+ERROR:  Nodes.remove(): error with argument 1, "node" -  Function.node does not support a 'None' assignment Node type
+========= end of processing =========
+elapsed time:  0 min, 5.8102 secs
